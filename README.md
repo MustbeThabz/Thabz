@@ -1,76 +1,106 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MustbeThabz.MustbeThabz" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tebogo+Dipale!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tebogo+Dipale!;+Software+Engineer+%7C+AI+Builder+🚀;" />
 </h1>
 
-<h3 align="center">A passionate software developer from South Africa </h3>
+<h3 align="center">🇿🇦 Software Engineer | Clinical Tech Innovator | Agentic AI Builder</h3>
 
-<br/>
+---
 
 <div align="center">
- 
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
 
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🔭 I’m currently working on **SDSync & Clinical Workflow AI Platform**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌱 I’m currently learning **Redis, Tailwind, React Native Expo, Agentic AI Systems**
 
- </div>
- 
+💡 Building solutions for **Healthcare, Public Health, and Environmental Impact**
+
+💬 Ask me about **Node.js, React, PostgreSQL, MongoDB, AI Agents, System Design**
+
+⚡ Fun fact: *I built my first PC at 16 and never looked back* 💻🔥
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/tebogo-dipale-4bb996a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/MustbeThabz" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+---
 
-<br/>
-<hr/>
+## ⚒️ Tech Stack
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,postgres,mysql,firebase" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,aws" />
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+## 🚀 Featured Projects
+
+### 🧪 SDSync – Safety Data Sheet Intelligence System
+- 🔍 Search chemicals via CAS numbers
+- ⚖️ Compliance mapping with SA regulations
+- 📊 Export reports & dashboards
+- 🏭 Built for industrial + health environments
+
+---
+
+### 🏥 Clinical Workflow & Patient Retention System
+- 📅 Smart appointment scheduling
+- 🤖 AI-driven patient follow-ups (WhatsApp Bot)
+- 📍 Tracks patient journey across clinic workflow
+- ❤️ Focus on reducing missed appointments in SA
+
+---
+
+### 🌍 Footprint Logger (Environmental Platform)
+- 🌱 Track carbon emissions from daily activities
+- 📊 Visual dashboards (charts, summaries)
+- 👥 Community comparison insights
+- 💡 Actionable sustainability tips
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/MustbeThabz/MustbeThabz/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=MustbeThabz&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MustbeThabz&show_icons=true&theme=react&border_radius=10" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustbeThabz&layout=compact&theme=react&border_radius=10" />
 </div>
 
-<br/><br/>
+---
 
-<hr/>
-
-<br/>
+## ☕ Support My Work
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/YOUR_LINK' target='_blank'>
+<img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' />
+</a>
 </div>
-
-<br/>
