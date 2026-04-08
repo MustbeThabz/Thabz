@@ -100,7 +100,7 @@
 ## ☕ Support My Work
 
 <div align="center">
-<a href='https://ko-fi.com/YOUR_LINK' target='_blank'>
+<a href='https://https://ko-fi.com/tebogodipale' target='_blank'>
 <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' />
 </a>
 </div>
