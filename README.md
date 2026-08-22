@@ -89,10 +89,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=MustbeThabz&theme=react&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MustbeThabz&show_icons=true&theme=react&border_radius=10" />
+  <img width=390 src="https://streak-stats.demolab.com?user=MustbeThabz&theme=react&border_radius=10" />
+  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MustbeThabz&theme=github_dark" />
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustbeThabz&layout=compact&theme=react&border_radius=10" />
+  <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustbeThabz&theme=github_dark" />
 </div>
 
 ---
