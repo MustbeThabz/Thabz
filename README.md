@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MustbeThabz.MustbeThabz" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MustbeThabz.Thabz" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tebogo+Dipale!;+Software+Engineer+%7C+AI+Builder+🚀;" />
@@ -27,7 +27,7 @@
 ## 🌐 Connect With Me
 
 <div align="center"> 
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:tebogodipalett@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/tebogo-dipale-4bb996a2/" target="_blank">
@@ -81,7 +81,7 @@
 ## 🐍 Contributions
 
 <div align="center">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/MustbeThabz/MustbeThabz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/MustbeThabz/Thabz/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -100,7 +100,7 @@
 ## ☕ Support My Work
 
 <div align="center">
-<a href='https://https://ko-fi.com/tebogodipale' target='_blank'>
+<a href="https://ko-fi.com/tebogodipale" target="_blank" rel="noreferrer">
 <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' />
 </a>
 </div>
